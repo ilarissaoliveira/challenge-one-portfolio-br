@@ -8,7 +8,13 @@ coloque nas sessões indicadas*/
    --cor-de-fundo: #F5F5F5;
    --cor-de-link: #000;
 }
-
+div.margem1 {
+    background: #FAD1E1;
+    color: #A0609B;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 10px;
+}
 body {
     box-sizing: border-box;
     background-color: var(--cor-de-fundo) ;
